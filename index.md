@@ -14,7 +14,7 @@ Este repositorio está diseñado para entender como utilizar la plantilla de rep
 4. Configurar la **navegación** (sidebar, secciones, orden).
 5. Agregar **imágenes, videos** y otros recursos.
 6. Ajustar **estilos** (logo, colores, footer).
-# hola
+# Hola mundo, eine Grosses Porsche auto
 
 Contenido:
 - [1. Publicar en GitHub Pages](01-publicar-en-github-pages.md)
