@@ -4,9 +4,9 @@ title: Inicio
 nav_order: 1
 ---
 
-# Plantilla de documentación con Just the Docs
+# Mi portafolio en GitHub (Cristian Kaled Rodríguez Carrillo)
 
-Este repositorio está diseñado para entender como utilizar la plantilla de repositorio que utiliza **"Just the docs"** de Jekyll y el lenguaje **"Markdown"**:
+Este repositorio es para la materia de pensamiento de ingeniería:
 
 1. **Crear y publicar** el sitio en GitHub Pages.
 2. Aprender la **estructura** típica de un repo de documentación.
